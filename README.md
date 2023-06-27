@@ -1,4 +1,4 @@
 - Hi, I’m @ankitkanwar2003
-- I’m interested in Data Analysis and Android app development
-- I’m currently learning Data Structures and Algorithms in C++
-- I'm proficient in Python, C, C++, MATLAB
+- I’m interested in Data Science (Data Analysis and Machine Learning), Android app development, and Web Development
+- I'm proficient in Java Python, C, C++, MATLAB, Verilog
+- I'm proficient in CAD on Autodesk Fusion 360 and CFD on Ansys Fluent
